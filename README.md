@@ -1,25 +1,17 @@
 ### Hi there 👋
 
 #### Topics I'm interested in
-* Blockchain
-* Cryptocurrency
-* Web3
-* Bitcoin
-* Ethereum
-* Polygon Matic
-* NFTs
-* Solidity
-* Hardhat
-* Ethers
 * JavaScript
 * React
 * TypeScript
+* Testing
+* Tailwind
+* Storybook
 * Mobx
 * Animation
 * Dart
 * Flutter
 * App Development
-* Self-driving cars
 
 <!--
 **spadin/spadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
